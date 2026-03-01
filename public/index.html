@@ -114,7 +114,7 @@
         }, [])
         
         useEffect(() => {
-          if (enterAction && enterAction.payload) {
+          if (enterAction && enterAction.payload && enterAction.payload !== '歇后语') {
             const payload = typeof enterAction.payload === 'string' 
               ? enterAction.payload 
               : (enterAction.payload[0] || '')

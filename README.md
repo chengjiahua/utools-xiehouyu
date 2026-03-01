@@ -12,13 +12,13 @@
 ## 效果图
 
 ### 主界面
-![主界面](YOUR_IMAGE_URL_1)
+![主界面](https://raw.githubusercontent.com/chengjiahua/MarkdownPhotos/main/utools/xiehouyu/1.png)
 
 ### 搜索功能
-![搜索](YOUR_IMAGE_URL_2)
+![搜索](https://raw.githubusercontent.com/chengjiahua/MarkdownPhotos/main/utools/xiehouyu/2.png)
 
 ### 详情展示
-![详情](YOUR_IMAGE_URL_3)
+![详情](https://raw.githubusercontent.com/chengjiahua/MarkdownPhotos/main/utools/xiehouyu/3.png)
 
 ## 安装方法
 
