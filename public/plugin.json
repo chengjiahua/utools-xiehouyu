@@ -1,0 +1,16 @@
+{
+  "pluginName": "歇后语大全",
+  "version": "1.0.0",
+  "description": "搜索和浏览14000+条歇后语",
+  "main": "index.html",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "xiehouyu",
+      "explain": "搜索和浏览歇后语",
+      "cmds": [
+        "歇后语"
+      ]
+    }
+  ]
+}
